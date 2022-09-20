@@ -1,0 +1,37 @@
+{
+"users":[
+  {
+"name": "Shyam Krishna",
+  "vpaId": "shyam@okaxis",
+  "accountId":"1234",
+  "accountNumber":"65672676",
+   "id": 1001,
+  "email": "shyamkrishna762@gmail.com",
+ "mobile": "8527250326",
+     "dob": "1988-04-02",
+    "type": "C"
+},
+{
+"name": "Amit Sehgal",
+  "vpaId": "amitsehgal@okaxis",
+  "accountId":"1235",
+  "accountNumber":"65672678",
+   "id": 1002,
+  "email": "amitsehgal762@gmail.com",
+ "mobile": "9650944304",
+     "dob": "1980-04-02",
+    "type": "M"
+},
+  {
+"name": "Parmatma Yadav",
+  "vpaId": "param103@okaxis",
+  "accountId":"1236",
+  "accountNumber":"65672679",
+   "id": 1003,
+  "email": "param103@gmail.com",
+ "mobile": "9911945851",
+     "dob": "1992-04-04",
+    "type": "M"
+}
+]
+}
