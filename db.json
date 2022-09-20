@@ -33,5 +33,41 @@
      "dob": "1992-04-04",
     "type": "M"
 }
-]
+],
+  "accounts":[
+  {
+         "id": 1234567891,
+         "vpaId": "shyam@okaxis",
+         "customerId": 1001,
+         "type": "Saving",
+         "description": " test account ",
+         "accountBalance": {
+           "accountBalanceId": 1001,
+          "accountId": 1234567891,
+         "lastUpdateTime": "2022-07-13T12:48:12.449893",
+           "balance": 1200,
+           "lastTxnId": 5003
+         }
+     },
+      {
+         "id": 1234567892,
+         "vpaId": "Amit@okaxis",
+         "customerId": 1002,
+         "type": "Saving",
+         "description": " test account ",
+         "accountBalance": {
+           "accountBalanceId": 1002,
+          "accountId": 1234567892,
+         "lastUpdateTime": "2022-07-13T12:48:12.449893",
+           "balance": 1200,
+           "lastTxnId": 5004
+         }
+     }
+  ],
+  "transactions":[
+    
+  ],
+  "settledTransactions":[
+    
+  ]
 }
